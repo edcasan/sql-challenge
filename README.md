@@ -4,7 +4,7 @@ Data Modeling
 Inspected the CSVs and sketch out an ERD of the tables. 
 
 Data Engineering
-Using the information you have to create a table schema for each of the six CSV files.
+Using the information you have to create a table schema for each of the six CSV files,
 Import each CSV file into the corresponding SQL table.
 
 Data Analysis
